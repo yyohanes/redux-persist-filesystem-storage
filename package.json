@@ -10,6 +10,6 @@
   "author": "Rob Walker",
   "license": "MIT",
   "dependencies": {
-    "rn-fetch-blob": "git+https://github.com/cogell/rn-fetch-blob.git#remove-unsafe-http"
+    "rn-fetch-blob": "git+https://github.com/yyohanes/rn-fetch-blob.git#podspec_update"
   }
 }
